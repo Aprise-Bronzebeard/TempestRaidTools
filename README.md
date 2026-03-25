@@ -1,4 +1,4 @@
-# TempestRaidTools
+# TempestRaidTools - Raid Cooldown Tracker
 
 Highly configurable addon custom made for Ascension-Bronzebeard created to provide raid tools for the **\<Tempest\>** guild. Currently includes functionality to track spell cooldowns for all raid/party members by showing cooldown bars for user-enabled tracked spells. 
 
