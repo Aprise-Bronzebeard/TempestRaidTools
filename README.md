@@ -4,6 +4,7 @@ Highly configurable addon custom made for Ascension-Bronzebeard created to provi
 
 ## Features
 
+- Visual cooldown bars for raid/party member's available spells.
 - Auto detection of cooldowns and available spells for players in the user's party/raid.
 - Communication of cooldown availability and durations between fellow addon users for more accurate durations.
 
